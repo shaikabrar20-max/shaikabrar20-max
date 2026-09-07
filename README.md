@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaik Abrar
 
-<!--
-**shaikabrar20-max/shaikabrar20-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Personal Email:** shaikabrar20052005@gmail.com  
+📧 **College Email:** 24d01a66b3@stmarysgroup.com  
+📍 **Address:** Rain Bazar, Hyderabad, Telangana - 500023  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Time Management  
+- Adaptability  
+- Enthusiastic  
+- Critical Thinking  
+- Decision Making  
+- Conflict Resolution  
+- Team Performance  
+- Python  
+- C Language  
+- HTML  
+
+---
+
+## 💻 Projects
+- **Online Event Management**  
+
+---
+
+## 🏆 Achievements
+*(Add your achievements here when ready!)*  
+
+---
+
+### 📌 About Me
+I am an enthusiastic learner with strong adaptability and critical thinking skills. Passionate about coding, teamwork, and solving problems creatively.  
+
+---
+
+⭐ Feel free to connect with me and explore my work here on GitHub!
